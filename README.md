@@ -8,7 +8,7 @@ In this repository, we've put together some Jupyter notebooks and MAtlab codes t
 
 # Contribution and Author
 
-If you'd like to contribute and/or correct any code of this repository, you are free to message or mail me at joignacioespinoza@gmail.com. This repository is part of the thesis on Quantum Spectral Clustering for Image Segmentation from Tecnológico de Monterrey for the degree of Master in Nanotechnology. 
+If you'd like to contribute and/or correct any code of this repository, you are free to message or mail me at joignacioespinoza@gmail.com. This repository is part of the thesis on Quantum Spectral Clustering for Image Segmentation at Tecnológico de Monterrey for the degree of Master in Nanotechnology. 
 
 # References
 
